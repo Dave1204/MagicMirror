@@ -1,0 +1,12 @@
+{
+  "user_id": "d0bd8e76-0e9a-49d8-a927-894fac6a4223",
+  "default_list_id": "6de1ecb6-9b41-490e-a6e5-081011b46a35",
+  "access_token": "eyJraWQiOiJwcm9kX2FjY2Vzc3Rva2VuXzIwMjAtMDUtMTEiLCJhbGciOiJIUzUxMiJ9.eyJleHAiOjE3MDE5NDA3OTksInN1YiI6ImJybjpicmluZzp1c2VyOmQwYmQ4ZTc2LTBlOWEtNDlkOC1hOTI3LTg5NGZhYzZhNDIyMyIsInJvbGVzIjoiUk9MRV9VU0VSIiwiYnJuIjoiYnJuOmJyaW5nOnVzZXI6ZDBiZDhlNzYtMGU5YS00OWQ4LWE5MjctODk0ZmFjNmE0MjIzIiwicHJpdmF0ZVV1aWQiOiJkMGJkOGU3Ni0wZTlhLTQ5ZDgtYTkyNy04OTRmYWM2YTQyMjMiLCJlbWFpbCI6ImRhdmlkLm5lZnpnZXIuZ21AZ21haWwuY29tIn0.yEL9FbQjemf6cEKDYDpStBBPsHz4NRqrk3ErhtAmevOY6ji-dpYm0DNwxfKfwH3UfxfslbFJGjG0cx5TXQeq5w",
+  "valid_until": 1701940798166,
+  "list_name_6de1ecb6-9b41-490e-a6e5-081011b46a35": "Zuhause",
+  "list_id_Zuhause": "6de1ecb6-9b41-490e-a6e5-081011b46a35",
+  "list_name_5426f075-b1c3-4485-9db2-266cd51f6569": "Bestand",
+  "list_id_Bestand": "5426f075-b1c3-4485-9db2-266cd51f6569",
+  "list_name_d08b3656-90e4-49c4-bd8b-74b18d3ca8fa": "Wohnung",
+  "list_id_Wohnung": "d08b3656-90e4-49c4-bd8b-74b18d3ca8fa"
+}
